@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:century gothic;
+    }
+
+    header {
+        background-image: url(../stars.jpg);
+        height:100vh;
+        background-size: cover;
+        background-position: center;
+
+    }
+    ul{
+        float:left;
+        list-style: none;
+        margin: 25px;
+    }
+    ul li{
+        display:inline-block;
+    }
+    ul li a{
+        text-decoration: none;
+        color: blueviolet;
+        padding: 5px;
+        border: 2px solid blueviolet;
+        transition: 0.6s ease;
+
+    }
+    ul li a:hover{
+        background-color:#fff;
+        color:#000;
+
+    }
+    .logo img{
+        float:center;
+        width:500px;
+        height: auto;
+    }
+    .main{
+        max-width: 1200px;
+        margin: auto;
+    }
+    h1 {
+        float:;
+
+
+    }
